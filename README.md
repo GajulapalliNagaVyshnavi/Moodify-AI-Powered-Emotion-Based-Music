@@ -55,7 +55,7 @@
     <p>The outputs of the project will include playing songs based on the selected database and modality.</p>
     <h2>Acknowledgements</h2>
     <p>Author: Gajulapalli Naga Vyshnavi<br>
-    Contact: <a href="mailto:nvyshnavi@gmail.com">nvyshnavi@gmail.com </a><br>
+    Contact: <a href="mailto:nvyshnavi36@gmail.com">nvyshnavi@gmail.com </a><br>
     For any inquiries, feel free to reach out via the contact information provided.</p>
 </body>
 </html>
