@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    EMOTION-BASED-MUSIC-PLAYER-USING-PYTHON-AND-ML
+    Moodify: AI-Powered Emotion-Based Music
 </head>
 <body>
     <h1>Project Overview</h1>
